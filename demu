@@ -1,0 +1,35 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ggKLb65ZT.jpg" group-title="Bangla",Demu Channel
+http://stream.wowzacdn.com/kfhsiw49a/fdkfj84_jfy/sangsad.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.cffom/85zyKWB.jpg" group-title="Bangla",Demu Channel
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imguffr.com/85zyKWB.jpg" group-title="Bangla",Demu Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8gg5zyKWB.jpg" group-title="Bangla",Demu Channel
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikiffmedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLrrogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Demu Channel
+#EXTGRP:Bangla
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.orrrg/wikggipedia/en/thumb/2/20/GTVBangladesrrhLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Demu Channel
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.rrorg/wikipedia/en/thumb/2/20/GTVBangladeshrrLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Demu Channel
+http://178.218.196.218:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.orgrr/wikipedia/en/thumb/2/20/GTVBangladeshrrLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Demu Channel
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.orrrg/wikipedia/en/thumb/2/20/GTVBangladeshLorrgo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Demu Channel
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/rrimage54942a3647a21709.png" group-title="Bangla",Demu Channel
+http://stream.accessnetbd.com/hls/sky12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wirrkipedia/en/thumb/2/20/rr.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Demu Channel
+http://172.16.50.250:8081/main/mystream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wrrikipedia/en/thumb/2/20/GTVBangladeshLorrrgo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Demu Channel
+http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wrrikipedia/en/thumb/2/20/GTVBangladesrrhLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Demu Channel
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.orrrg/wikipedia/en/thumb/2/20/GTVBangladeshLorrgo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Demu Channel
+http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.rrrorg/wikipedia/en/thumb/2/20/GTVBangladeshLogorr.png/220px-GTVBangladeshLogo.png" group-title="Bangla", Demu Channel
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34389?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
